@@ -1,13 +1,11 @@
-<<<<<<< HEAD
-# Starter React Project for the Supabase Course
+# Supabase CRUD App 🚀
 
-**How to run the starter project:**
+This project is a simple **CRUD application** built with **React** and **Supabase**. It demonstrates how to connect a React frontend with Supabase for performing Create, Read, Update, and Delete operations on a PostgreSQL database — all with a modern UI.
 
-1. Once downloaded, navigate to the project directory in a terminal and run **npm install** to install all the project dependencies.
-2. In the project directory, run **npm start** to run the app & view it in a browser at [http://localhost:3000](http://localhost:3000).
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-=======
-# Supabase-Tutorial
->>>>>>> 4553a09d44fc72cbcf938a9051a9f6641cc2f9fe
+## ⚙️ Tech Stack
+
+- **Frontend:** React.js
+- **Backend as a Service:** Supabase
+- **Database:** PostgreSQL (via Supabase)
