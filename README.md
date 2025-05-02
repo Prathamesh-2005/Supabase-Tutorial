@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter React Project for the Supabase Course
 
 **How to run the starter project:**
@@ -7,3 +8,6 @@
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+=======
+# Supabase-Tutorial
+>>>>>>> 4553a09d44fc72cbcf938a9051a9f6641cc2f9fe
